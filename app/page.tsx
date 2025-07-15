@@ -6,5 +6,6 @@ export default function Home() {
     Asfand
     Farhan 
     Abdullah
+    Yo Yo
   </div>  );
 }
